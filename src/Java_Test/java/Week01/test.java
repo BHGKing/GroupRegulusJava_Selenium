@@ -5,6 +5,8 @@ public class test {
 
         boolean test = true;
 
+        int num = 0;
+
 
 
     }
