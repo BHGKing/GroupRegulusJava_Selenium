@@ -1,10 +1,11 @@
 package JoseTask.day03_cssSelector_xpath;
 
-import com.cydeo.utilities.WebDriverFactory;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import utilities.WebDriverFactory;
 
 public class HWP1_Etsy_Xpath_CSS {
 
