@@ -1,4 +1,4 @@
-package AikaC.Week04;
+package AikaC.week04;
 
 public class Duplicates {
 
